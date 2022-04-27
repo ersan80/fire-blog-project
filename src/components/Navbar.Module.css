@@ -1,0 +1,31 @@
+.img{
+  width: 5px;
+}
+
+.box{
+    background-color: red;
+}
+
+Typography{
+    display: "none";
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    margin: auto;
+    position: relative;
+    left: 100px;
+
+    
+    
+
+    
+    
+  }
+
+  span{
+      font-size: 30;
+      color: wheat;
+  }
+
+  .link{
+       font-family: 'Girassol', cursive;;
+  }
